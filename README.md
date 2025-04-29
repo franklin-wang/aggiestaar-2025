@@ -1,2 +1,4 @@
 # aggiestaar-2025
-python tutorials for the AggieSTAAR summer undergraduate research program. each Python notebook tutorial is accompanied by a set of slides.
+Welcome to the Github page for the AggieSTAAR 2025 Python Bootcamp! This page contains all of the notebooks that you will work through, as well as their accompanying slides. 
+
+Since the bootcamp is only a day long, this should not be considered as an extremely comprehensive introduction to Python. I will try my best to write these tutorials for complete beginners, but it will move quickly given the time constraints. I will try to cover what I consider to be absolutely vital astronomy Python skills, but I definitely may miss some things - your feedback is always appreciated! If you are completely new to Python, I do recommend taking a look at free resources online, like Code Academy. Imad Pasha and Chris Agostino's [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) is also a helpful resource. 
